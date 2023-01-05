@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(236, 182, 22);
+}
+.content{
+    display: flex;
+   
+}
+h1{
+    text-align: center;
+}
+.div1{
+    margin: 50px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+.div2{
+    margin: 50px;
+    border: 1px solid black; 
+    text-align: center;
+   
+}
+
+img{
+    width: 300px;
+
+}
+.div3{
+    margin: 50px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+@media screen and (max-width: 768px) {
+    .content-wrapper {
+      padding-bottom: 0px;
+    }
+  
+    .content-wrapper,
+    figure {
+      width: 100%;
+    }
+  
+    figure {
+      height: 300px;
+    }
+  }

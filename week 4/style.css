@@ -1,0 +1,20 @@
+ @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+h1{
+    background-color: rgb(6, 107, 107);
+    font-size: 60px;
+    color: white;
+    font-family: 'Old Standard TT', serif*;
+
+}
+p{
+    background-color: rgb(187, 129, 242);
+    font-size: 40px;
+    color: black;
+}
+img{
+    <img src: "Portfolio pic Riyana.JPG;" alt="">
+    border-radius: 50%;
+    width: auto;
+    height: 600px;
+    background-size: cover;
+}
